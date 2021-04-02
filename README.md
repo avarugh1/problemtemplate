@@ -23,3 +23,7 @@ From root directory, run:
 ## Contributors:
 
 * []() Anson Varughese
+
+1. Do A.
+1. Do B.
+1. Do C.
