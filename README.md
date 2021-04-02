@@ -25,5 +25,5 @@ From root directory, run:
 * []() Anson Varughese
 
 1. Do A.
-8. Do B.
+4. Do B.
 2. Do C.
